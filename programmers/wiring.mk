@@ -1,0 +1,3 @@
+AVRDUDE_PROGRAMMER := wiring
+NEEDS_PORT := 1
+NO_ERASE := -D

@@ -1,0 +1,4 @@
+build/
+*.cof
+*.eep.hex
+*.obj

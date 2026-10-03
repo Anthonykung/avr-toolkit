@@ -1,0 +1,2 @@
+AVRDUDE_PROGRAMMER := usbasp
+NEEDS_PORT := 0

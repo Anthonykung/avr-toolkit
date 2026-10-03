@@ -1,0 +1,2 @@
+MCU := atmega2560
+AVRDUDE_PART := m2560

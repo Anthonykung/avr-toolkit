@@ -1,0 +1,2 @@
+MCU := atmega128
+AVRDUDE_PART := m128

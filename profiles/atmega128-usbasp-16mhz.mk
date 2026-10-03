@@ -1,0 +1,3 @@
+TARGET := atmega128
+PROGRAMMER := usbasp
+F_CPU := 16000000UL

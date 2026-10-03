@@ -1,0 +1,4 @@
+TARGET := atmega2560
+PROGRAMMER := wiring
+F_CPU := 16000000UL
+BAUD := 115200

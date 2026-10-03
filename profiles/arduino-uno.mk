@@ -1,0 +1,4 @@
+TARGET := atmega328p
+PROGRAMMER := arduino
+F_CPU := 16000000UL
+BAUD := 115200

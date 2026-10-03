@@ -1,0 +1,3 @@
+AVRDUDE_PROGRAMMER := arduino
+NEEDS_PORT := 1
+NO_ERASE := -D

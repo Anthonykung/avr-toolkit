@@ -1,0 +1,2 @@
+AVRDUDE_PROGRAMMER := avrisp
+NEEDS_PORT := 1
